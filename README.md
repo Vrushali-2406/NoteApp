@@ -28,16 +28,6 @@ This is Simple React CRUD application.
 
 ![screenshot](/src/screenshots/screenshot.jpeg) -->
 
-### Links
-
-- Solution URL: [@GitHub](https://github.com/RajeshxD/Notes-Application)
-- Live Site URL: [@Netlify](https://notes-rajesha.netlify.app/)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/bf32737d-afbf-4360-a315-fec90aa06de0/deploy-status)](https://notes-rajesha.netlify.app/)
-
-### Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## My process
 
 ### Built with
